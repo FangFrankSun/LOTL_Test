@@ -1,19 +1,18 @@
 # Site settings
-course_name: History of Magic
-course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
-course_semester: "Fall 1998"
+course_name: Lessons of the Lawn
+course_description: "The study of architecture as a speculation on the origins of ideas is located at the conjunctive core of any liberal arts curriculum and serves as the physical armature and conceptual foundation of the University. This course is concerned with the contemporary imagination, attempting to make the discipline of architecture meaningful to a wide range of citizens in its public obligation to be constructive and optimistic in the most profoundly ethical, pragmatic, and magical of terms."
+course_semester: "Fall 2023"
 
 baseurl: "/LOTL_Test" # the subpath of your site, e.g. /blog/
 url: "http://fangfranksun.github.io/" # the base hostname & protocol for your site
 
-schoolname: "Hogwarts"
-schoolurl: "https://hogwarts.edu"
-twitter_username: username 
+schoolname: "UVA"
+schoolurl: "https://arch.virginia.edu"
+#twitter_username: username 
 
 address: |
-    School of Witchcraft and Wizardry
-    Hogwarts
-    Scotland
+    School of Architecture
+    University of Virginia
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
