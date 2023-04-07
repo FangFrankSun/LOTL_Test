@@ -8,7 +8,7 @@ permalink: /materials/
 
 ## Book
 
-Alan Turing and Noam Chomsky: Very Famous Book
+[The Word Made Flesh: Dialogues Between Citizens and Strangers by PETER WALDMAN](https://www.amazon.com/Lessons-Lawn-Dialogues-Citizens-Strangers/dp/1940743990)
 
 ## Additional Course Materials
 
