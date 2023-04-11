@@ -9,9 +9,11 @@ links:
     #   name: notes
     # - url: /static_files/presentations/code.zip
     #   name: codes
-    - url: /_lectures_pdfs/week2/TH/Week2_Syntax of Structure 9.5.17.pdf
+    - url: /_lectures_pdfs/week2/TH/l1.pdf
       name: slides
 ---
 **Suggested Readings:**
-- [Readings 1](/_lectures_pdfs/week2/TH/Week2_Syntax of Structure 9.5.17.pdf)
-- [Readings 2](http://example.com)
+- [Readings 1](/_lectures_pdfs/week2/TH/r1.pdf)
+- [Readings 2](/_lectures_pdfs/week2/TH/r2.pdf)
+- [Readings 3](/_lectures_pdfs/week2/TH/r3.pdf)
+- [Readings 4](/_lectures_pdfs/week2/TH/r4.pdf)
