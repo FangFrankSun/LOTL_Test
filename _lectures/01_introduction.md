@@ -9,7 +9,7 @@ links:
     #   name: notes
     # - url: /static_files/presentations/code.zip
     #   name: codes
-    - url: /_lectures_pdfs/week2/T/l1.pdf
+    - url: /LOTL_Test/_lectures_pdfs/week2/T/l1.pdf
       name: slides
 ---
 **Suggested Readings:**
