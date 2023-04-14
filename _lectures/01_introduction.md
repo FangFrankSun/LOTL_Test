@@ -5,15 +5,15 @@ title: Sample Lecture
 tldr: "Short text to discribe what this lecture is about."
 thumbnail: /static_files/presentations/lec.jpg
 links: 
-    - url: /l1.pdf
-      name: codes
-    - url: /_lectures_pdfs/week2/T/l1.pdf
+    # - url: /l1.pdf
+    #   name: codes
+    - url: /lectures_pdfs/week2/T/l1.pdf
       name: slides
 ---
 **Suggested Readings:**
-- [Readings 1](/_lectures_pdfs/week2/TH/r1.pdf)
-- [Readings 2](/_lectures_pdfs/week2/TH/r2.pdf)
-- [Readings 3](/_lectures_pdfs/week2/TH/r3.pdf)
-- [Readings 4](/_lectures_pdfs/week2/TH/r4.pdf)
+- [Readings 1](/readings_pdfs/week2/TH/r1.pdf)
+- [Readings 2](/readings_pdfs/week2/TH/r2.pdf)
+- [Readings 3](/readings_pdfs/week2/TH/r3.pdf)
+- [Readings 4](/readings_pdfs/week2/TH/r4.pdf)
 
 
