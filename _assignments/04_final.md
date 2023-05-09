@@ -1,7 +1,7 @@
 ---
 type: assignment
 date: 2023-10-17T4:00:00+4:30
-title: 'Assignment #4 (draft) (4 Pages)'
+title: 'Assignment #4 (Final)'
 #pdf: /static_files/assignments/asg.pdf
 #attachment: /static_files/assignments/asg.zip
 #solutions: /static_files/assignments/asg_solutions.pdf

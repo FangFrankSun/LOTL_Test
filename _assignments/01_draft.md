@@ -1,7 +1,7 @@
 ---
 type: assignment
 date: 2023-08-22T4:00:00+4:30
-title: 'Assignment #1 (1 Page)'
+title: 'Assignment #1 (Draft)'
 #pdf: /static_files/assignments/asg.pdf
 #attachment: /static_files/assignments/asg.zip
 #solutions: /static_files/assignments/asg_solutions.pdf

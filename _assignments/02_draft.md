@@ -1,7 +1,7 @@
 ---
 type: assignment
 date: 2023-09-06T4:00:00+4:30
-title: 'Assignment #2 (Draft) (2 Pages)'
+title: 'Assignment #2 (Draft)'
 #pdf: /static_files/assignments/asg.pdf
 #attachment: /static_files/assignments/asg.zip
 #solutions: /static_files/assignments/asg_solutions.pdf
