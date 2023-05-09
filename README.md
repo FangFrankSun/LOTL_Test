@@ -59,11 +59,6 @@ Pro Tip: You don't need to clone your repo to update your website. Use GitHub we
 - Update course staff info at `_data/people.yml` (You may need to upload the profile pics to `_images` folder.
 - (Optional) Open `_data/previous_offering.yml` and update the data if needed.
 
-## Change the looks
-- Open `_sass/_user_vars.scss`
-- Select your favorite from the pre-defined themes (comment all other themes, and uncomment your desired one)
-- Here are all themes:
-<img src="https://raw.githubusercontent.com/kazemnejad/jekyll-course-website-template/master/_images/screenshots/themes.png">
 
 - You can also change the colors manually to match your branding
 ## Contents
